@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/slam6d/code/!svn/ver/843/trunk/src/scanserver
+END
+serverInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/695/trunk/src/scanserver/serverInterface.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/843/trunk/src/scanserver/CMakeLists.txt
+END
+cacheIO.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/693/trunk/src/scanserver/cacheIO.cc
+END
+scanserver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/693/trunk/src/scanserver/scanserver.cc
+END
+serverScan.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/715/trunk/src/scanserver/serverScan.cc
+END
+sharedScan.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/719/trunk/src/scanserver/sharedScan.cc
+END
+clientInterface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/695/trunk/src/scanserver/clientInterface.cc
+END
+temporaryHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/693/trunk/src/scanserver/temporaryHandler.cc
+END
+frame_io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/693/trunk/src/scanserver/frame_io.cc
+END
+scanHandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/715/trunk/src/scanserver/scanHandler.cc
+END
+metrics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/693/trunk/src/scanserver/metrics.cc
+END

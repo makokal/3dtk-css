@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/slam6d/code/!svn/ver/840/trunk/include/slam6d/fbr
+END
+fbr_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/829/trunk/include/slam6d/fbr/fbr_global.h
+END
+registration.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/840/trunk/include/slam6d/fbr/registration.h
+END
+feature.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/721/trunk/include/slam6d/fbr/feature.h
+END
+scan_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/834/trunk/include/slam6d/fbr/scan_cv.h
+END
+feature_matcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/slam6d/code/!svn/ver/721/trunk/include/slam6d/fbr/feature_matcher.h
+END
+panorama.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/829/trunk/include/slam6d/fbr/panorama.h
+END
+feature_drawer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/slam6d/code/!svn/ver/812/trunk/include/slam6d/fbr/feature_drawer.h
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/slam6d/code/!svn/ver/855/trunk/src/scanio
+END
+scan_io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/slam6d/code/!svn/ver/779/trunk/src/scanio/scan_io.cc
+END
+scan_io_uos_rrgb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/824/trunk/src/scanio/scan_io_uos_rrgb.cc
+END
+scan_io_xyz_rgb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/842/trunk/src/scanio/scan_io_xyz_rgb.cc
+END
+scan_io_velodyne.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/728/trunk/src/scanio/scan_io_velodyne.cc
+END
+calibration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/679/trunk/src/scanio/calibration.txt
+END
+scan_io_laz.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/782/trunk/src/scanio/scan_io_laz.cc
+END
+scan_io_uosr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_uosr.cc
+END
+scan_io_xyz.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/777/trunk/src/scanio/scan_io_xyz.cc
+END
+scan_io_riegl_rgb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_riegl_rgb.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/855/trunk/src/scanio/CMakeLists.txt
+END
+scan_io_uos_rgb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_uos_rgb.cc
+END
+scan_io_riegl_txt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/787/trunk/src/scanio/scan_io_riegl_txt.cc
+END
+scan_io_ply.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/775/trunk/src/scanio/scan_io_ply.cc
+END
+scan_io_uos_rrgbt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_uos_rrgbt.cc
+END
+scan_io_uos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_uos.cc
+END
+scan_io_xyz_rrgb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/824/trunk/src/scanio/scan_io_xyz_rrgb.cc
+END
+scan_io_ks_rgb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_ks_rgb.cc
+END
+scan_io_rts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_rts.cc
+END
+scan_io_rxp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/805/trunk/src/scanio/scan_io_rxp.cc
+END
+scan_io_xyzr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/777/trunk/src/scanio/scan_io_xyzr.cc
+END
+scan_io_ks.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/slam6d/code/!svn/ver/715/trunk/src/scanio/scan_io_ks.cc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/slam6d/code/!svn/ver/831/trunk/src/segmentation
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/770/trunk/src/segmentation/CMakeLists.txt
+END
+fhsegmentation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/831/trunk/src/segmentation/fhsegmentation.cc
+END
+disjoint-set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/slam6d/code/!svn/ver/724/trunk/src/segmentation/disjoint-set.cc
+END
+scan2segments.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/804/trunk/src/segmentation/scan2segments.cc
+END
+FHGraph.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/slam6d/code/!svn/ver/799/trunk/src/segmentation/FHGraph.cc
+END
+segment-graph.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/724/trunk/src/segmentation/segment-graph.cc
+END

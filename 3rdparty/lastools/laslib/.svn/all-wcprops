@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/lastools/laslib
+END
+LASlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/LASlib.dsp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/Makefile
+END
+laslib_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/laslib_README.txt
+END
+LASlib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/LASlib.dsw
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/CHANGES.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/slam6d/code/!svn/ver/754/trunk/src/pmd/offline
+END
+pmdc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/127/trunk/src/pmd/offline/pmdc.conf
+END
+rename
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/slam6d/code/!svn/ver/127/trunk/src/pmd/offline/rename
+END
+convertToSLAM6D.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/693/trunk/src/pmd/offline/convertToSLAM6D.cc
+END
+grabVideoAnd3D.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/754/trunk/src/pmd/offline/grabVideoAnd3D.cc
+END

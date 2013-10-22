@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/slam6d/code/!svn/ver/698/trunk/src/grid
+END
+docu.tex
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/slam6d/code/!svn/ver/37/trunk/src/grid/docu.tex
+END
+parcel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/parcel.cc
+END
+2DGridder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/2DGridder.cc
+END
+hough.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/hough.cc
+END
+scanmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/scanmanager.cc
+END
+gridlines.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/gridlines.cc
+END
+parcelinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/parcelinfo.cc
+END
+gridWriter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/gridWriter.cc
+END
+grid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/grid.cc
+END
+line.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/line.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/slam6d/code/!svn/ver/698/trunk/src/grid/CMakeLists.txt
+END
+scanGrid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/scanGrid.cc
+END
+scanToGrid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/scanToGrid.cc
+END
+gridPoint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/gridPoint.cc
+END
+viewpointinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/viewpointinfo.cc
+END
+parcelmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/693/trunk/src/grid/parcelmanager.cc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/example
+END
+lasexample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/example/lasexample.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/example/Makefile
+END
+lasexample.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/example/lasexample.dsp
+END

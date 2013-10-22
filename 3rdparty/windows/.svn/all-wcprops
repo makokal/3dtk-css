@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/slam6d/code/!svn/ver/564/trunk/3rdparty/windows
+END
+freeglut.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/564/trunk/3rdparty/windows/freeglut.lib
+END
+freeglut.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/564/trunk/3rdparty/windows/freeglut.dll
+END
+XGetopt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/564/trunk/3rdparty/windows/XGetopt.cpp
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/564/trunk/3rdparty/windows/dirent.h
+END
+XGetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/564/trunk/3rdparty/windows/XGetopt.h
+END

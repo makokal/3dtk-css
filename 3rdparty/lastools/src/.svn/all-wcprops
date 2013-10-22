@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src
+END
+laszip.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/laszip.dsp
+END
+lasindex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasindex.cpp
+END
+lasdiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasdiff.cpp
+END
+lasindex.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasindex.dsp
+END
+lasdiff.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasdiff.dsp
+END
+lasprecision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasprecision.cpp
+END
+lasinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasinfo.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/Makefile
+END
+lasmerge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasmerge.cpp
+END
+lasinfo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasinfo.dsp
+END
+geoprojectionconverter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/geoprojectionconverter.cpp
+END
+lasprecision.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasprecision.dsp
+END
+las2txt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/las2txt.cpp
+END
+las2las.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/las2las.cpp
+END
+txt2las.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/txt2las.cpp
+END
+laszip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/laszip.cpp
+END
+lasmerge.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/lasmerge.dsp
+END
+geoprojectionconverter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/geoprojectionconverter.hpp
+END
+las2txt.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/las2txt.dsp
+END
+las2las.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/las2las.dsp
+END
+txt2las.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/src/txt2las.dsp
+END

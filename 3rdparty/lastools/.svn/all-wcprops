@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/lastools
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/README.txt
+END
+lastools.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/lastools.dsw
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/Makefile
+END
+HALL_OF_SHAME.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/HALL_OF_SHAME.txt
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/CHANGES.txt
+END
+COPYING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/COPYING.txt
+END

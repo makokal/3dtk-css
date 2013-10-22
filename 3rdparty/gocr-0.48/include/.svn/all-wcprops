@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/288/trunk/3rdparty/gocr-0.48/include
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/slam6d/code/!svn/ver/286/trunk/3rdparty/gocr-0.48/include/.cvsignore
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/slam6d/code/!svn/ver/286/trunk/3rdparty/gocr-0.48/include/config.h.in
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/slam6d/code/!svn/ver/288/trunk/3rdparty/gocr-0.48/include/config.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/slam6d/code/!svn/ver/286/trunk/3rdparty/gocr-0.48/include/version.h
+END

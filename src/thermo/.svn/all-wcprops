@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/slam6d/code/!svn/ver/809/trunk/src/thermo
+END
+thermo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/slam6d/code/!svn/ver/806/trunk/src/thermo/thermo.cc
+END
+caliboard.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/slam6d/code/!svn/ver/809/trunk/src/thermo/caliboard.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/806/trunk/src/thermo/CMakeLists.txt
+END

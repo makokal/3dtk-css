@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/slam6d/code/!svn/ver/851/trunk/src/normals
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/843/trunk/src/normals/CMakeLists.txt
+END
+normals_panorama.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/851/trunk/src/normals/normals_panorama.cc
+END
+calc_normals.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/slam6d/code/!svn/ver/831/trunk/src/normals/calc_normals.cc
+END

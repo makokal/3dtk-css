@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/slam6d/code/!svn/ver/833/trunk/src/model
+END
+graphicsAlg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/slam6d/code/!svn/ver/696/trunk/src/model/graphicsAlg.cc
+END
+plane3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/slam6d/code/!svn/ver/698/trunk/src/model/plane3d.cc
+END
+rotation3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/slam6d/code/!svn/ver/696/trunk/src/model/rotation3d.cc
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/slam6d/code/!svn/ver/698/trunk/src/model/CMakeLists.txt
+END
+vector3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/slam6d/code/!svn/ver/696/trunk/src/model/vector3d.cc
+END
+candidateOpening.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/696/trunk/src/model/candidateOpening.cc
+END
+scene.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/slam6d/code/!svn/ver/833/trunk/src/model/scene.cc
+END
+util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/slam6d/code/!svn/ver/696/trunk/src/model/util.cc
+END
+labeledPlane3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/slam6d/code/!svn/ver/696/trunk/src/model/labeledPlane3d.cc
+END
+model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/slam6d/code/!svn/ver/698/trunk/src/model/model.cc
+END
+point3d.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/slam6d/code/!svn/ver/696/trunk/src/model/point3d.cc
+END

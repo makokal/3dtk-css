@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/test
+END
+laszippertest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/test/laszippertest.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/test/Makefile
+END
+laszippertest.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/test/laszippertest.dsp
+END

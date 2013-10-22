@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/lastools/laslib/src
+END
+lasreaditem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaditem.hpp
+END
+bytestreamin_istream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/bytestreamin_istream.hpp
+END
+lasutility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasutility.cpp
+END
+laszipper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laszipper.cpp
+END
+laswriteitemcompressed_v1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriteitemcompressed_v1.hpp
+END
+laswriteitemcompressed_v2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriteitemcompressed_v2.hpp
+END
+bytestreamin_file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/bytestreamin_file.hpp
+END
+lasquadtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasquadtree.cpp
+END
+lastransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lastransform.cpp
+END
+laswriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriter.cpp
+END
+lasunzipper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasunzipper.cpp
+END
+arithmeticdecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/arithmeticdecoder.hpp
+END
+lasreader_qfit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_qfit.cpp
+END
+lasreaditemcompressed_v1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaditemcompressed_v1.cpp
+END
+lasreaditemcompressed_v2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaditemcompressed_v2.cpp
+END
+laswaveform13writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswaveform13writer.cpp
+END
+lasreader_asc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_asc.cpp
+END
+lasreader_bil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_bil.cpp
+END
+laswriteitemraw.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriteitemraw.hpp
+END
+lasreader_bin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_bin.cpp
+END
+laswriter_qfit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriter_qfit.cpp
+END
+lasreader_las.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_las.cpp
+END
+lasreader_txt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_txt.cpp
+END
+bytestreamout_ostream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/bytestreamout_ostream.hpp
+END
+lasindex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/lastools/laslib/src/lasindex.cpp
+END
+laswritepoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswritepoint.hpp
+END
+lasreaditemraw.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaditemraw.hpp
+END
+arithmeticmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/arithmeticmodel.cpp
+END
+integercompressor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/integercompressor.hpp
+END
+lasreadpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreadpoint.cpp
+END
+laszip_common_v2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laszip_common_v2.hpp
+END
+arithmeticencoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/arithmeticencoder.cpp
+END
+lasreader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader.cpp
+END
+laswriteitemcompressed_v1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriteitemcompressed_v1.cpp
+END
+laswriteitemcompressed_v2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriteitemcompressed_v2.cpp
+END
+lasreaderbuffered.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaderbuffered.cpp
+END
+bytestreamout_file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/bytestreamout_file.hpp
+END
+lasreader_shp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreader_shp.cpp
+END
+laswaveform13reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswaveform13reader.cpp
+END
+laswriteitem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriteitem.hpp
+END
+bytestreamout_nil.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/bytestreamout_nil.hpp
+END
+arithmeticdecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/arithmeticdecoder.cpp
+END
+lasreaditemcompressed_v1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaditemcompressed_v1.hpp
+END
+lasreaditemcompressed_v2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaditemcompressed_v2.hpp
+END
+laswriter_wrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriter_wrl.cpp
+END
+laszip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laszip.cpp
+END
+laswriter_bin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriter_bin.cpp
+END
+laswritepoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswritepoint.cpp
+END
+entropyencoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/entropyencoder.hpp
+END
+integercompressor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/integercompressor.cpp
+END
+laswriter_txt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriter_txt.cpp
+END
+laswriter_las.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/laswriter_las.cpp
+END
+bytestreamout.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/bytestreamout.hpp
+END
+lasreaderpipeon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreaderpipeon.cpp
+END
+arithmeticmodel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/arithmeticmodel.hpp
+END
+lasinterval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/lastools/laslib/src/lasinterval.cpp
+END
+lasfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasfilter.cpp
+END
+lasreadermerged.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreadermerged.cpp
+END
+lasreadpoint.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasreadpoint.hpp
+END
+entropydecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/entropydecoder.hpp
+END
+fopen_compressed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/fopen_compressed.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/Makefile
+END
+lasspatial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/lasspatial.cpp
+END
+arithmeticencoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/slam6d/code/!svn/ver/781/trunk/3rdparty/lastools/laslib/src/arithmeticencoder.hpp
+END

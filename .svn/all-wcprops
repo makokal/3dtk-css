@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/p/slam6d/code/!svn/ver/858/trunk
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/slam6d/code/!svn/ver/844/trunk/.gitignore
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/slam6d/code/!svn/ver/368/trunk/manifest.xml
+END
+know_issues.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/slam6d/code/!svn/ver/787/trunk/know_issues.txt
+END
+README.scanserver
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/slam6d/code/!svn/ver/775/trunk/README.scanserver
+END
+LICENSING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/slam6d/code/!svn/ver/693/trunk/LICENSING
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/slam6d/code/!svn/ver/793/trunk/CONTRIBUTORS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/p/slam6d/code/!svn/ver/741/trunk/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/slam6d/code/!svn/ver/752/trunk/Makefile
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/slam6d/code/!svn/ver/854/trunk/CMakeLists.txt
+END
+README.planes
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/slam6d/code/!svn/ver/424/trunk/README.planes
+END

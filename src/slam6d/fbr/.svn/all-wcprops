@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/slam6d/code/!svn/ver/854/trunk/src/slam6d/fbr
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/854/trunk/src/slam6d/fbr/CMakeLists.txt
+END
+fbr_global.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/slam6d/code/!svn/ver/829/trunk/src/slam6d/fbr/fbr_global.cc
+END
+registration.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/840/trunk/src/slam6d/fbr/registration.cc
+END
+feature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/721/trunk/src/slam6d/fbr/feature.cc
+END
+scan_cv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/834/trunk/src/slam6d/fbr/scan_cv.cc
+END
+panorama_creator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/840/trunk/src/slam6d/fbr/panorama_creator.cc
+END
+feature_matcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/slam6d/code/!svn/ver/721/trunk/src/slam6d/fbr/feature_matcher.cc
+END
+panorama.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/840/trunk/src/slam6d/fbr/panorama.cc
+END
+feature_drawer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/slam6d/code/!svn/ver/854/trunk/src/slam6d/fbr/feature_drawer.cc
+END
+panorama_matcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/slam6d/code/!svn/ver/824/trunk/src/slam6d/fbr/panorama_matcher.cc
+END
+feature_based_registration.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/slam6d/code/!svn/ver/850/trunk/src/slam6d/fbr/feature_based_registration.cc
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/cvblob
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/slam6d/code/!svn/ver/530/trunk/3rdparty/cvblob/COPYING
+END
+cvblob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/749/trunk/3rdparty/cvblob/cvblob.cpp
+END
+cvcolor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/slam6d/code/!svn/ver/749/trunk/3rdparty/cvblob/cvcolor.cpp
+END
+cvlabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/slam6d/code/!svn/ver/749/trunk/3rdparty/cvblob/cvlabel.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/cvblob/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/slam6d/code/!svn/ver/530/trunk/3rdparty/cvblob/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/slam6d/code/!svn/ver/530/trunk/3rdparty/cvblob/README
+END
+cvblob.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/slam6d/code/!svn/ver/821/trunk/3rdparty/cvblob/cvblob.h
+END
+cvtrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/slam6d/code/!svn/ver/749/trunk/3rdparty/cvblob/cvtrack.cpp
+END
+cvcontour.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/slam6d/code/!svn/ver/749/trunk/3rdparty/cvblob/cvcontour.cpp
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/slam6d/code/!svn/ver/530/trunk/3rdparty/cvblob/COPYING.LESSER
+END
+cmake_install.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/slam6d/code/!svn/ver/802/trunk/3rdparty/cvblob/cmake_install.cmake
+END
+cvaux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/slam6d/code/!svn/ver/749/trunk/3rdparty/cvblob/cvaux.cpp
+END

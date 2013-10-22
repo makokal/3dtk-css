@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/slam6d/code/!svn/ver/754/trunk/include/pmd/pose
+END
+history.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/slam6d/code/!svn/ver/754/trunk/include/pmd/pose/history.h
+END
+motion3-horn.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/slam6d/code/!svn/ver/273/trunk/include/pmd/pose/motion3-horn.h
+END
