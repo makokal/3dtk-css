@@ -1,14 +1,14 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/src/normals
 http://svn.code.sf.net/p/slam6d/code
 
 
 
-2013-09-29T08:17:51.172195Z
-851
+2013-10-22T16:29:23.543461Z
+859
 jspricke
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2013-09-19T19:04:28.124594Z
-c14e7d6262b491b24c89803b61bda318
-2013-08-09T09:30:29.021101Z
-843
-josch1337
+2013-11-07T13:00:58.149634Z
+029c21c8418efbac439b528743a8b331
+2013-10-22T16:29:23.543461Z
+859
+jspricke
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-650
+676
 
 normals_panorama.cc
 file

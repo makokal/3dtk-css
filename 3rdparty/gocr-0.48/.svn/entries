@@ -1,7 +1,7 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/3rdparty/gocr-0.48
 http://svn.code.sf.net/p/slam6d/code
 
@@ -25,9 +25,6 @@ jelseberg
 
 
 51f1e6e7-7289-49ad-8748-f09e43fc6daa
-
-include
-dir
 
 gocr.spec
 file
@@ -63,6 +60,9 @@ jelseberg
 
 4145
 
+include
+dir
+
 READMEde.txt
 file
 
@@ -96,40 +96,6 @@ jelseberg
 
 
 3115
-
-AUTHORS
-file
-
-
-
-
-2013-09-19T19:04:56.132594Z
-3772af36d3de2f32aceffa9832b73302
-2010-11-16T11:53:08.820850Z
-286
-jelseberg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-243
 
 gpl.html
 file
@@ -165,17 +131,14 @@ jelseberg
 
 20982
 
-src
-dir
-
-CREDITS
+AUTHORS
 file
 
 
 
 
 2013-09-19T19:04:56.132594Z
-7457768f36cc9125fa96cb7b0252c748
+3772af36d3de2f32aceffa9832b73302
 2010-11-16T11:53:08.820850Z
 286
 jelseberg
@@ -200,7 +163,10 @@ jelseberg
 
 
 
-784
+243
+
+src
+dir
 
 README
 file
@@ -235,6 +201,40 @@ jelseberg
 
 
 7170
+
+CREDITS
+file
+
+
+
+
+2013-09-19T19:04:56.132594Z
+7457768f36cc9125fa96cb7b0252c748
+2010-11-16T11:53:08.820850Z
+286
+jelseberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+784
 
 REMARK.txt
 file
@@ -304,40 +304,6 @@ jelseberg
 
 2255
 
-HISTORY
-file
-
-
-
-
-2013-09-19T19:04:56.132594Z
-25bc59546e25bdb1c7b73cee9ed35d6c
-2010-11-16T11:53:08.820850Z
-286
-jelseberg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12757
-
 REVIEW
 file
 
@@ -372,8 +338,39 @@ jelseberg
 
 21362
 
-doc
-dir
+HISTORY
+file
+
+
+
+
+2013-09-19T19:04:56.132594Z
+25bc59546e25bdb1c7b73cee9ed35d6c
+2010-11-16T11:53:08.820850Z
+286
+jelseberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12757
 
 TODO
 file
@@ -408,6 +405,9 @@ jelseberg
 
 
 2989
+
+doc
+dir
 
 INSTALL
 file

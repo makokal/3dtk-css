@@ -1,7 +1,7 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/3rdparty/lastools/src
 http://svn.code.sf.net/p/slam6d/code
 
@@ -25,108 +25,6 @@ nuechter
 
 
 51f1e6e7-7289-49ad-8748-f09e43fc6daa
-
-lasprecision.dsp
-file
-
-
-
-
-2013-09-19T19:04:54.508594Z
-47a4564584214397a39a857f18694586
-2012-11-30T12:10:17.405501Z
-781
-nuechter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12723
-
-geoprojectionconverter.cpp
-file
-
-
-
-
-2013-09-19T19:04:54.508594Z
-892acce1b629116cc34ff6401b0769fc
-2012-11-30T12:10:17.405501Z
-781
-nuechter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-202900
-
-lasinfo.dsp
-file
-
-
-
-
-2013-09-19T19:04:54.508594Z
-49f104b050c090661775a7eaffc00b40
-2012-11-30T12:10:17.405501Z
-781
-nuechter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11174
 
 lasmerge.cpp
 file
@@ -162,14 +60,14 @@ nuechter
 
 9790
 
-txt2las.cpp
+lasinfo.dsp
 file
 
 
 
 
 2013-09-19T19:04:54.508594Z
-8401037cc612c3007bad7f4d96294683
+49f104b050c090661775a7eaffc00b40
 2012-11-30T12:10:17.405501Z
 781
 nuechter
@@ -194,7 +92,109 @@ nuechter
 
 
 
-22503
+11174
+
+geoprojectionconverter.cpp
+file
+
+
+
+
+2013-09-19T19:04:54.508594Z
+892acce1b629116cc34ff6401b0769fc
+2012-11-30T12:10:17.405501Z
+781
+nuechter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+202900
+
+lasprecision.dsp
+file
+
+
+
+
+2013-09-19T19:04:54.508594Z
+47a4564584214397a39a857f18694586
+2012-11-30T12:10:17.405501Z
+781
+nuechter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12723
+
+las2txt.cpp
+file
+
+
+
+
+2013-09-19T19:04:54.508594Z
+7578743331a4758249de3c088e39b638
+2012-11-30T12:10:17.405501Z
+781
+nuechter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35476
 
 las2las.cpp
 file
@@ -230,14 +230,14 @@ nuechter
 
 29956
 
-las2txt.cpp
+txt2las.cpp
 file
 
 
 
 
 2013-09-19T19:04:54.508594Z
-7578743331a4758249de3c088e39b638
+8401037cc612c3007bad7f4d96294683
 2012-11-30T12:10:17.405501Z
 781
 nuechter
@@ -262,7 +262,7 @@ nuechter
 
 
 
-35476
+22503
 
 laszip.cpp
 file
@@ -366,14 +366,14 @@ nuechter
 
 10965
 
-las2txt.dsp
+txt2las.dsp
 file
 
 
 
 
 2013-09-19T19:04:54.512594Z
-f9da757fb9e716f10b99f7cebe9d2c10
+8edfa8112d690b6f059fe5a729ceb8e3
 2012-11-30T12:10:17.405501Z
 781
 nuechter
@@ -398,7 +398,7 @@ nuechter
 
 
 
-11993
+11600
 
 las2las.dsp
 file
@@ -434,14 +434,14 @@ nuechter
 
 12013
 
-txt2las.dsp
+las2txt.dsp
 file
 
 
 
 
 2013-09-19T19:04:54.512594Z
-8edfa8112d690b6f059fe5a729ceb8e3
+f9da757fb9e716f10b99f7cebe9d2c10
 2012-11-30T12:10:17.405501Z
 781
 nuechter
@@ -466,7 +466,7 @@ nuechter
 
 
 
-11600
+11993
 
 laszip.dsp
 file

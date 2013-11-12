@@ -1,7 +1,7 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/3rdparty/windows/GL
 http://svn.code.sf.net/p/slam6d/code
 
@@ -25,6 +25,40 @@ jelseberg
 
 
 51f1e6e7-7289-49ad-8748-f09e43fc6daa
+
+freeglut_std.h
+file
+
+
+
+
+2013-09-19T19:04:58.208594Z
+8b633cf34336b394f6c9d56c4cd33180
+2012-01-30T17:02:16.848946Z
+564
+jelseberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26810
 
 glut.h
 file
@@ -127,38 +161,4 @@ jelseberg
 
 
 9033
-
-freeglut_std.h
-file
-
-
-
-
-2013-09-19T19:04:58.208594Z
-8b633cf34336b394f6c9d56c4cd33180
-2012-01-30T17:02:16.848946Z
-564
-jelseberg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-26810
 

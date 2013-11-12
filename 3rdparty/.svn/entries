@@ -1,7 +1,7 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/3rdparty
 http://svn.code.sf.net/p/slam6d/code
 
@@ -25,6 +25,15 @@ hhoushiar
 
 
 51f1e6e7-7289-49ad-8748-f09e43fc6daa
+
+CMakeModules
+dir
+
+ann_1.1.1_modified
+dir
+
+windows
+dir
 
 newmat
 dir
@@ -82,14 +91,5 @@ gocr-0.48
 dir
 
 cvblob
-dir
-
-CMakeModules
-dir
-
-ann_1.1.1_modified
-dir
-
-windows
 dir
 

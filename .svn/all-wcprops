@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 33
-/p/slam6d/code/!svn/ver/858/trunk
+/p/slam6d/code/!svn/ver/860/trunk
 END
 .gitignore
 K 25
@@ -55,7 +55,7 @@ CMakeLists.txt
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/slam6d/code/!svn/ver/854/trunk/CMakeLists.txt
+/p/slam6d/code/!svn/ver/860/trunk/CMakeLists.txt
 END
 README.planes
 K 25

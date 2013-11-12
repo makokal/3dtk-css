@@ -1,7 +1,7 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/3rdparty/ann_1.1.1_modified/MS_Win32
 http://svn.code.sf.net/p/slam6d/code
 
@@ -25,12 +25,6 @@ nuechter
 
 
 51f1e6e7-7289-49ad-8748-f09e43fc6daa
-
-dll
-dir
-
-test
-dir
 
 sample
 dir
@@ -73,5 +67,11 @@ has-props
 2699
 
 bin
+dir
+
+dll
+dir
+
+test
 dir
 

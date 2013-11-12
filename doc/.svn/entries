@@ -1,7 +1,7 @@
 10
 
 dir
-858
+860
 http://svn.code.sf.net/p/slam6d/code/trunk/doc
 http://svn.code.sf.net/p/slam6d/code
 
@@ -25,6 +25,40 @@ nuechter
 
 
 51f1e6e7-7289-49ad-8748-f09e43fc6daa
+
+david_scanner.pdf
+file
+
+
+
+
+2013-09-19T19:04:51.360594Z
+058721ecc473d0b5383fa8ec7b1f4d9e
+2011-03-25T15:21:09.377485Z
+394
+nuechter
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+570945
 
 papers
 dir
@@ -133,38 +167,4 @@ has-props
 
 
 503435
-
-david_scanner.pdf
-file
-
-
-
-
-2013-09-19T19:04:51.360594Z
-058721ecc473d0b5383fa8ec7b1f4d9e
-2011-03-25T15:21:09.377485Z
-394
-nuechter
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-570945
 
