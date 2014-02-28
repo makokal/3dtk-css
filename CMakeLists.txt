@@ -295,6 +295,15 @@ ELSE(WITH_FBR)
   MESSAGE(STATUS "Without FBR")
 ENDIF(WITH_FBR)
 
+## SCALESPACE
+OPT_DEP(WITH_SCALESPACE "Whether to compile scale space module. ON/OFF" OFF "")
+
+IF(WITH_SCALESPACE)
+  MESSAGE(STATUS "With SCALESPACE ")
+ELSE(WITH_SCALESPACE)
+  MESSAGE(STATUS "Without SCALESPACE")
+ENDIF(WITH_SCALESPACE)
+
 # OPEN
 FIND_PACKAGE(OpenMP)
 IF(OPENMP_FOUND)
@@ -437,6 +446,7 @@ add_subdirectory(src/slam6d/fbr)
 add_subdirectory(src/scanner)
 add_subdirectory(src/model)
 add_subdirectory(src/collision)
+add_subdirectory(src/scalespace)
 add_subdirectory(3rdparty)
 IF(WITH_ADDONS)
   MESSAGE(STATUS "With 3dtkaddons.")
@@ -444,3 +454,4 @@ IF(WITH_ADDONS)
 ENDIF(WITH_ADDONS)
 
 MESSAGE (STATUS "Build environment is set up!")
+
